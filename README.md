@@ -1,19 +1,17 @@
-# Industrial-MMS-TTS-System
-AI-Powered Multilingual Text-to-Speech for Industrial Applications 
+# Industrial MMS TTS System: AI-Powered Multilingual Text-to-Speech
 
 [![Status](https://img.shields.io/badge/Status-Under%20Development-orange.svg)]()
-[![Walmart](https://img.shields.io/badge/Walmart-Center%20of%20Tech%20Excellence-blue.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Gradio](https://img.shields.io/badge/Gradio-4.0+-orange.svg)](https://gradio.app/)
 [![HuggingFace](https://img.shields.io/badge/🤗-Transformers-yellow.svg)](https://huggingface.co/transformers/)
 [![Facebook](https://img.shields.io/badge/Facebook-MMS-blue.svg)](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## Repository Status
+## 🚧 Repository Status
 
-This repository contains an **experimental Industrial Text-to-Speech System** being developed under **Walmart Center of Tech Excellence**. The project explores the integration of Facebook's MMS technology with HuggingFace AI models for multilingual voice synthesis in industrial environments.
+> **⚠️ UNDER DEVELOPMENT**: This repository contains an experimental Industrial Text-to-Speech System currently in active development. Features and implementation are subject to change.
 
-> **Note**: This is an ongoing development project. Features and implementation are subject to change.
+**Current Phase**: Core functionality implementation and testing
 
 ---
 
@@ -113,11 +111,11 @@ Open browser and navigate to: `http://localhost:7863`
 ## Development Status
 
 ### Completed Components
-- [x] Basic TTS functionality for Hindi and English
-- [x] HuggingFace model integration
-- [x] Number-to-words conversion framework
-- [x] Web interface with Gradio
-- [x] Voice effect implementation
+- ✅ Basic TTS functionality for Hindi and English
+- ✅ HuggingFace model integration
+- ✅ Number-to-words conversion framework
+- ✅ Web interface with Gradio
+- ✅ Voice effect implementation
 
 ### In Progress
 - [ ] Improved number conversion accuracy
@@ -149,45 +147,17 @@ Open browser and navigate to: `http://localhost:7863`
 
 ---
 
-## Walmart Center of Tech Excellence
-
-This project is being developed as part of research and innovation initiatives under the **Walmart Center of Tech Excellence**. The work explores practical applications of AI technologies for improving industrial communication systems.
-
-### Project Goals
-- Investigate cost-effective alternatives to commercial TTS solutions
-- Explore multilingual AI model integration
-- Develop practical tools for industrial environments
-- Contribute to open-source AI applications
-
----
-
-## Contributing
-
-### Development Guidelines
-- Follow existing code structure
-- Test with both Hindi and English inputs
-- Ensure compatibility with specified dependencies
-- Document any changes or additions
-
-### How to Contribute
-- Report bugs and issues
-- Suggest feature improvements
-- Submit pull requests for fixes
-- Help with testing and validation
-
----
-
 ## Contact
 
-### Project Information
-- **Institution**: Walmart Center of Tech Excellence
-- **Repository**: [GitHub Repository Link]
-- **Issues**: [GitHub Issues Page]
+**Developer**: Avinash Kumar Sharma  
+**Email**: avics2020@gmail.com  
+**Repository**: [GitHub Repository Link]  
+**Issues**: [GitHub Issues Page]
 
 ### Support
 For questions about this experimental project:
 - Open an issue on GitHub
-- Contact through institutional channels
+- Contact via email for technical discussions
 
 ---
 
