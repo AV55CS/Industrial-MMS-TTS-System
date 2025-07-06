@@ -1,0 +1,27 @@
+# Industrial MMS TTS Configuration
+app:
+  name: "Industrial MMS TTS System"
+  version: "1.0.0"
+  author: "Walmart Center of Tech Excellence"
+
+server:
+  host: "0.0.0.0"
+  port: 7863
+  share: true
+
+languages:
+  supported: ["hindi", "english"]
+  default: "hindi"
+
+models:
+  tts:
+    hindi: "facebook/mms-tts-hin"
+    english: "facebook/mms-tts-eng"
+  llm:
+    language_detection: "papluca/xlm-roberta-base-language-detection"
+    text_generation: "microsoft/DialoGPT-medium"
+    classification: "facebook/bart-large-mnli"
+
+audio:
+  sample_rate: 22050
+  format: "wav"
