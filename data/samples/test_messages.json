@@ -1,0 +1,22 @@
+{
+  "safety_messages": {
+    "english": [
+      "Emergency at room 1234! Fire detected. Evacuate immediately!",
+      "Warning: Gas leak in sector 5. Budget impact: ₹50,000."
+    ],
+    "hindi": [
+      "आपातकाल कमरा 1234 में! आग लगी है। तुरंत निकलें!",
+      "चेतावनी: सेक्टर 5 में गैस लीक। बजट प्रभाव: ₹50,000।"
+    ]
+  },
+  "instruction_messages": {
+    "english": [
+      "Please go to station 5. Press button 1234. Meeting at 12:30.",
+      "Step 1: Check pressure. Step 2: Record reading. Budget: ₹25,000."
+    ],
+    "hindi": [
+      "कृपया स्टेशन 5 पर जाएं। बटन 1234 दबाएं। 12:30 बजे मीटिंग।",
+      "चरण 1: दबाव जांचें। चरण 2: रीडिंग रिकॉर्ड करें। बजट: ₹25,000।"
+    ]
+  }
+}
